@@ -3,7 +3,7 @@ Reactivity Library
 
 ## Motivation
 
-Just for studing how to create a reactive library.
+Just for studying how to create a reactive library.
 
 
 ## Credits
